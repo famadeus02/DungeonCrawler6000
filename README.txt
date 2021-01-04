@@ -1,7 +1,6 @@
-Kjør 'main.py' for å spille spillet. 
+Run 'main.py' to play the game.
 
-For å se på kode, rediger 'main.py', 'gamelib.py' og 'sprite.py'
-All dokumentasjon ligger i filene som kommentarer
+To view code, edit 'main.py', 'gamelib.py' and 'sprite.py'
+All documentation is in the files as comments
 
-For å se på kart over spillet, se bilde 'base.jpg' i 'sketch' mappen
-
+To see a map of the game, see image 'base.jpg' in the 'sketch' folder
