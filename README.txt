@@ -1,3 +1,7 @@
+Normal use:
+Download main.dist, and run 'main.exe'
+
+Source code:
 Run 'main.py' to play the game.
 
 To view code, edit 'main.py', 'gamelib.py' and 'sprite.py'
